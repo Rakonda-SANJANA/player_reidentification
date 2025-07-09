@@ -12,7 +12,7 @@ player-reid-single-feed/
 # Setup instructions
 
 1. Clone the repository:
-git clone 
+git clone https://github.com/Rakonda-SANJANA/player_reidentification.git
 cd player-reid-single-feed
 2. Install dependencies:
 pip install -r requirements.txt
