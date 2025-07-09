@@ -4,11 +4,12 @@ This project performs player tracking and re-identification in a 15-second footb
 # Project structure
 player-reid-single-feed/
 ├── src/
-│ └── main.py # Detection + tracking code
-├── 15sec_input_720p.mp4 # Input video (place in root directory)
-├── tracked_output.mp4 # Output video with player IDs
-├── requirements.txt # Python dependencies
-|__ README.md # This file
+│   └── main.py      # Detection + tracking code
+├── 15sec_input_720p.mp4   # Input video (place in root directory)
+├── tracked_output.mp4      # Output video with player IDs
+├── requirements.txt        # Python dependencies
+└── README.md               # This file
+
 # Setup instructions
 
 1. Clone the repository:
