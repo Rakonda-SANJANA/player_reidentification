@@ -21,4 +21,5 @@ pip install -r requirements.txt
 5. The output video will be saved as tracked_output.mp4 in the root directory.
 6. The detection code loads the model defined by the variable `MODEL_NAME` in `main.py`.If you have the yolov11.pt, place it in the project directory and set:  MODEL_NAME = "yolov11.pt"
 7. If you do not have yolov11.pt, the pipeline can still run using the publicly available Ultralytics YOLOv8 nano model:MODEL_NAME = "yolov8n.pt"
-
+8. The input video file `15sec_input_720p.mp4` is available via Google Drive: https://drive.google.com/drive/folders/1xt9V_nlq_Qn-8I3Fuh2S2r8aFQAuEvfX?usp=sharing
+9. After downloading, place the video in the root directory of the project.
