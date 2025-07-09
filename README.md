@@ -13,7 +13,7 @@ player-reid-single-feed/
 
 1. Clone the repository:
 git clone https://github.com/Rakonda-SANJANA/player_reidentification.git
-cd player-reid-single-feed
+cd player_reidentification
 2. Install dependencies:
 pip install -r requirements.txt
 3. Place the input video 15sec_input_720p.mp4 in the root directory.
